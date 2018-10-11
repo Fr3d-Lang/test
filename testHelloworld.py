@@ -4,7 +4,7 @@ import unittest
 
 ######       IMPORT   MYCODE      ######
 
-from mycode import *
+import mycode
 
 ######       CLASS    UNITTEST    ######
 
